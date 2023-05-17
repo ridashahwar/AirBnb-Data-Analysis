@@ -32,3 +32,5 @@ Regarding Price
 
 Find key metrics and factors and show the meaningful relationships between attributes. Do
 your own research and come up with your findings
+
+LINK TO DASHBOARD: https://public.tableau.com/app/profile/rida.shahwar/viz/AirbnbAnalysis_16837974423550/Dashboard1?publish=yes
